@@ -124,6 +124,8 @@ The process taught me a lot about procedural logic, data structuring, and tool i
  # <ins>__Bibliography__:</ins>
 
  - Minecraft Generation Explanation | [Minecraft Wiki](https://fr.minecraft.wiki/w/G%C3%A9n%C3%A9ration_du_monde)
+
+ - Minecraft Generation Explanation Video | [Youtube](https://youtu.be/ciL0tDDH8vQ )
    
  - PCG Biome Reference | [Unreal Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation-pcg-biome-core-and-sample-plugins-reference-guide-in-unreal-engine)
    
