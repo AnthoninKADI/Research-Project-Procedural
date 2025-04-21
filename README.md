@@ -60,8 +60,7 @@ At the beginning, I faced difficulties with grid generation logic and the coordi
 
 I had to learn how to use noise functions, how to structure grid data and how to manage randomness in a controlled way.
 
-Example:
-<ins>__[Image BPGrid ICI]__</ins>
+![[Uploading Menu_Image.PNG…]()](https://raw.githubusercontent.com/AnthoninKADI/Research-Project-Procedural/refs/heads/main/BPGrid.PNG)
 
 ![[Uploading Menu_Image.PNG…]()](https://raw.githubusercontent.com/AnthoninKADI/Research-Project-Procedural/refs/heads/main/GridGenerator.PNG)
 <br>
@@ -87,6 +86,10 @@ Even though I didn't use the maze for the final implementation, it taught me how
 The biggest step was integrating the PCG Biome plugin. At first, it was challenging to understand how it handles layers and biome distribution because i never use it before.
 
 I had to dig into its documentation and experiment with blending settings to get satisfying results.
+
+![[Uploading Menu_Image.PNG…]()](https://raw.githubusercontent.com/AnthoninKADI/Research-Project-Procedural/refs/heads/main/BiomeColorMap.png)
+<br>
+<br>
 
 ![[Uploading Menu_Image.PNG…]()](https://raw.githubusercontent.com/AnthoninKADI/Research-Project-Procedural/refs/heads/main/ProcedBiomeColor.PNG)
 <br>
