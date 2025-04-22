@@ -18,7 +18,7 @@ These systems often combine noise functions (e.g. Perlin Noise) with rule-based 
 <br>
 <ins>__Technologies Commonly Used__:</ins>
 
-Level generation techniques often use tools like Wave Function Collapse, Cellular Automata or more for layout generation.
+Level generation techniques often use tools like Wave Function Collapse or more for layout generation.
 
 Biome assignment is typically managed by analyzing environmental parameters such as temperature, humidity, or altitude.
 
